@@ -1,19 +1,19 @@
 # Full-Tutorial-of-OYO-App-Development
 Team Introduction<br>
 Welcome to our OYO Clone Project repository! We are a team passionate about creating a streamlined accommodation booking experience. Let us introduce ourselves:
-•	Team Members:
-o	Saurav Singh
-o	Rashmi
-o	Hardik
+<br>•	Team Members:
+<br>Saurav Singh
+<br>	Rashmi
+<br>Hardik
 <br>
 # Project Introduction<br>
-This repository hosts the Phase One development of our OYO Clone application. Currently, we have implemented:
+This repository hosts the Phase One development of our OYO Clone application. Currently, we have implemented:<br>
 •	Backend:
- Developed in Python, our backend handles the core functionalities of our application.
+ Developed in Python, our backend handles the core functionalities of our application.<br>
 •	Database: 
-Utilizing SQL, we've designed a database schema to store essential data for bookings and users.
+Utilizing SQL, we've designed a database schema to store essential data for bookings and users.<br>
 •	Frontend: 
-Initial UI design featuring a home page and login interface using tkinter.
+Initial UI design featuring a home page and login interface using tkinter.<br>
 
 Please note, this is an ongoing project and represents only the initial phase of development.
 <br>
