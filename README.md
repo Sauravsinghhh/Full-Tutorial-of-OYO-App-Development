@@ -29,11 +29,11 @@ Enter an identifier (hotel name, customer name, contact, address, booking ID, pa
 For example :<br>
 •	If you enter name of hotel “hotel Taj” it will show the details of the taj hotel i.e.<br>
 o	Details:
-(2, 'Hotel Taj', 4.8, 'Delhi', 150, '011-98765432')
+(HID-2, Hotel Name -'Hotel Taj', Hotel Rating - 4.8, Hotel Location- 'Delhi', Total Rooms-  150,Contact- '011-98765432')<br>
 <br>
 •	Entering customer name “ Rashmi” , it will show the customer details i.e.<br>
 o	Details:<br>
-(7, 'Rashmi', '7778889999', 'Delhi', datetime.date(2022, 7, 1))
+(CID-7,CName- 'Rashmi',Contact- '7778889999',Stay Location- 'Delhi', Checkin Time- (YY-MM-DD))
 <br>
 # Database Overview
 We have structured our SQL database to support the following functionalities:<br>
