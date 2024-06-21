@@ -28,51 +28,51 @@ Identifier structure:
 Enter an identifier (hotel name, customer name, contact, address, booking ID, payment ID): {here you have to enter what details you are searching for} 
 For example :<br>
 •	If you enter name of hotel “hotel Taj” it will show the details of the taj hotel i.e.<br>
-o	Details:
-HID: 102
-Hname: Hotel Taj
-Rating: 4.8
-Address: Delhi
-No_of_Rooms: 150
-Contact_Number: 011-98765432
-
-HID: 107
-Hname: Hotel Taj
-Rating: 4.6
-Address: Chennai
-No_of_Rooms: 130
-Contact_Number: 066-55566666
-
-HID: 108
-Hname: Hotel Taj
-Rating: 4.6
-Address: Hyderabad
-No_of_Rooms: 130
-Contact_Number: 044-55569999
-
-HID: 113
-Hname: Hotel Taj
-Rating: 4.6
-Address: Mumbai
-No_of_Rooms: 130
-Contact_Number: 044-55599999
-
-HID: 114
-Hname: Hotel Taj
-Rating: 4.6
-Address: Gurugram
-No_of_Rooms: 130
-Contact_Number: 044-55566888
+o	Details:<br>
+HID: 102<br>
+Hname: Hotel Taj<br>
+Rating: 4.8<br>
+Address: Delhi<br>
+No_of_Rooms: 150<br>
+Contact_Number: 011-98765432<br>
+<br>
+HID: 107<br>
+Hname: Hotel Taj<br>
+Rating: 4.6<br>
+Address: Chennai<br>
+No_of_Rooms: 130<br>
+Contact_Number: 066-55566666<br>
+<br>
+HID: 108<br>
+Hname: Hotel Taj<br>
+Rating: 4.6<br>
+Address: Hyderabad<br>
+No_of_Rooms: 130<br>
+Contact_Number: 044-55569999<br>
+<br>
+HID: 113<br>
+Hname: Hotel Taj<br>
+Rating: 4.6<br>
+Address: Mumbai<br>
+No_of_Rooms: 130<br>
+Contact_Number: 044-55599999<br>
+<br>
+HID: 114<br>
+Hname: Hotel Taj<br>
+Rating: 4.6<br>
+Address: Gurugram<br>
+No_of_Rooms: 130<br>
+Contact_Number: 044-55566888<br>
 <br>
 •	Entering customer name “ Rashmi” , it will show the customer details i.e.<br>
 o	Details:<br>
-CID: 7
-Cname: Rashmi
-username: Rashmi299405
-passwords: 12635
-contact: 7778889999
-Address: Delhi
-Registration_Date: 2022-07-01
+CID: 7<br>
+Cname: Rashmi<br>
+username: Rashmi299405<br>
+passwords: 12635<br>
+contact: 7778889999<br>
+Address: Delhi<br>
+Registration_Date: 2022-07-01<br>
 <br>
 # Database Overview
 We have structured our SQL database to support the following functionalities:<br>
