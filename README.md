@@ -29,11 +29,50 @@ Enter an identifier (hotel name, customer name, contact, address, booking ID, pa
 For example :<br>
 •	If you enter name of hotel “hotel Taj” it will show the details of the taj hotel i.e.<br>
 o	Details:
-(HID-2, Hotel Name -'Hotel Taj', Hotel Rating - 4.8, Hotel Location- 'Delhi', Total Rooms-  150,Contact- '011-98765432')<br>
+HID: 102
+Hname: Hotel Taj
+Rating: 4.8
+Address: Delhi
+No_of_Rooms: 150
+Contact_Number: 011-98765432
+
+HID: 107
+Hname: Hotel Taj
+Rating: 4.6
+Address: Chennai
+No_of_Rooms: 130
+Contact_Number: 066-55566666
+
+HID: 108
+Hname: Hotel Taj
+Rating: 4.6
+Address: Hyderabad
+No_of_Rooms: 130
+Contact_Number: 044-55569999
+
+HID: 113
+Hname: Hotel Taj
+Rating: 4.6
+Address: Mumbai
+No_of_Rooms: 130
+Contact_Number: 044-55599999
+
+HID: 114
+Hname: Hotel Taj
+Rating: 4.6
+Address: Gurugram
+No_of_Rooms: 130
+Contact_Number: 044-55566888
 <br>
 •	Entering customer name “ Rashmi” , it will show the customer details i.e.<br>
 o	Details:<br>
-(CID-7,CName- 'Rashmi',Contact- '7778889999',Stay Location- 'Delhi', Checkin Time- (YY-MM-DD))
+CID: 7
+Cname: Rashmi
+username: Rashmi299405
+passwords: 12635
+contact: 7778889999
+Address: Delhi
+Registration_Date: 2022-07-01
 <br>
 # Database Overview
 We have structured our SQL database to support the following functionalities:<br>
