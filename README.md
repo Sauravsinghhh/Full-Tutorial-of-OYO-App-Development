@@ -90,6 +90,7 @@ o	Payment: <br>
 Account for the payment details reference to the customer and booking.<br>
 
 # Frontend Overview<br>
+<br>
 Our frontend (tkinter-based) demonstrates the user interface conceptually. <br>
 •	Limitations:<br>
 The frontend UI in this repository is for demonstration purposes.
